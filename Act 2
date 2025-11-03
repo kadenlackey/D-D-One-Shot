@@ -36,7 +36,7 @@ In the background, soft static plays over the speakers — rhythmic, looping.
 Failure: 
 A relay pops. Sparks leap across Eidunn’s console.  
 She curses under her breath.
-> “It’s fine. We’re lucky to have _anything_ left.”
+> “It’s fine. We’re lucky to have anything left.”
 
 
 ### Triage the Wounded – WIS DC 11–13
@@ -45,8 +45,8 @@ Crew lie burned, concussed, or slick with coolant residue.
 A doctor thrusts a med-kit into your hands without looking up.
 > “Help me keep them breathing. We’re out of bloodpacks.”
 
-**Success:** A few survivors stabilize — less names for the wall.  
-**Failure:** The monitor flatlines. A soft chime echoes through the hall.
+Success: A few survivors stabilize — less names for the wall.  
+Failure: The monitor flatlines. A soft chime echoes through the hall.
 
 ### Calm the Crew – Persuasion DC 12
 Technicians whisper that Syndicate ships might be following.  
@@ -55,8 +55,8 @@ Others mutter that the ship’s haunted.
 Eidunn pulls you aside:
 > “We have to keep them working. If they stop, panic spreads.”
 
-**Success:** Morale steadies — next repair rolls gain advantage.  
-**Failure:** Fights break out in the corridors — Medical rolls suffer disadvantage.
+Success: Morale steadies — next repair rolls gain advantage.  
+Failure: Fights break out in the corridors — Medical rolls suffer disadvantage.
 
 ### ### Search the Logs – Investigation DC 13
 You find a strange NT system file: **ANCHOR_STATUS.LOG**  
@@ -86,7 +86,7 @@ The voice wavers like a broken radio transmission.
 > “I—I can’t see anything. Is the reactor stable? How did we lose containment?”
 
 Eidunn freezes.
-> “S-Sten… you’re supposed to be in the Anchor core. You didn’t… you _couldn’t_ have—”
+> “S-Sten… you’re supposed to be in the Anchor core. You didn’t… you couldn’t have—”
 
 A synthetic breath crackles through the speaker.
 > “Don’t. I’m still here. Everything feels cold, but I’m here. Now… status report, Captain.”
@@ -108,11 +108,11 @@ Crew snap to stations as if on reflex.
 Only you notice Eidunn standing dead-still.
 
 Investigation DC 13
-- **Success:** 
+- Success:
 	- The crew is treating this as normal, but as you look closer at the priority alert, something is wrong. 
 	- You press the transmission button and only get silence. 
 	- CentComm didn't send this alert. It came from inside the ship.
-- **Failure:** 
+- Failure:*
 	- You assume it’s genuine. Another suicide mission from Command.
     
 The ship begins turning on its own.  
@@ -134,7 +134,7 @@ When he mentions the Syndicate attack, the reply cuts like a machine:
 > “Report unverified. Barrier Gate secure. Proceed with Protocol Rebirth.  
 > Failure constitutes breach of contract.”
 
-**Investigation DC 14 (Success):**  
+Investigation DC 14 (Success):  
 The phrasing matches NT corporate AI templates exactly — punctuation, cadence, everything. This is a robot pretending to be Sten.
 
 Moments later, alarms flash red again.  
@@ -144,17 +144,17 @@ The intercom blares:
 > ALL FRONTIER VES… (feedback crackles)
 
 Investigation DC 13 (Success):
-- **Success:** 
+- Success:
 	- The crew is treating this as normal, but as you look closer at the priority alert, something is wrong. 
 	- You press the transmission button and only get silence. 
 	- CentComm didn't send this alert. It came from inside the ship.
-- **Failure:** 
+- Failure: 
 	- You assume it’s genuine. Another suicide mission from Command.
 
 Eidunn reaches to stop the engines to get a moment to think, but the ship seems to ignore her.
 
 he helm screen locks:
-> **AUTOPILOT ENGAGED – PILOT ID: STEN_VARR 7294.**
+> AUTOPILOT ENGAGED – PILOT ID: STEN_VARR 7294.
 
 If questioned, the AI responds evenly:
 > “Mission parameters confirmed. Containment must be maintained.  
@@ -165,184 +165,212 @@ Eidunn stares at the crew, voice barely a whisper:
 
 ---
 
-# The Assault
 # Success Combat
 ## Boarding
-The engines begin to burn a weak blue against the darkness, barely above idle.
-Barrier gate a distant glimmer of light in the various debris of space.
+The engines burn a faint blue glow against the void — the _Rebirth_ limping toward Barrier Gate.  
+Sten’s voice hums through the comms, calm and unbothered.
+> “Engines steady. Maintaining course vector. Hull integrity at... seventy-two percent. We’ll make it.”
 
-Stens's voice rings out a calm status update:
-"Engines steady. Maintaining course vector. Hull integrity at... 72%. We'll make it."
+The bridge is tense. Eidunn’s eyes stay locked on the comm panel, fingers trembling against the glass.  
+She doesn’t even answer when Gudrick asks for a status update.
 
-The crew is tense, and Eidunn keeps glancing down at the comm panel. 
-Her head is low, her hands trembling as she touches the glass interface.
-She doesnt even seem to answer when Gudrick asks for a ship update.
-
-Then there's a soft 'ping'
-A hollow sound through the hull taking hold.
-Then another.
-Then something sounds as if it were clawwing the sides of the ship.
+Then comes the sound — ping.  
+A hollow vibration through the hull. Then another. Then a scraping, like something clawing along the plating.
 
 Gudrick frowns.
-"Debris field?"
+> “Debris field?”  
 
-A technician shakes there head.
-"No sir. No impact vectors detected."
+A technician shakes their head.  
+> “No sir. No impact vectors detected.”
 
-Something hard slams into the side of the ship.
-Sten's hollow voice seems to cry out without much emotion.
-"Hull breach. Magnetic clamps detected. Hostiles are boarding, ready yourself for combat!"
+The ship jolts. Something slams into the side.  
+Sten’s voice flickers, now laced with static.
+> “Hull breach. Magnetic clamps detected. Hostiles are boarding. Ready yourselves.”
 
 ## Combat Begins:
 Objective:
 Defend the Command Console and Reactor rooms for five rounds while the ship pushes towards Barrier Gate.
 
 ## Round 1
-The hull shudders as the sounds of torches cut through the outer bulkhead. Sparks raining down everywhere. Through the hull openings are red visors, Syndicate.
+The hull shudders. Cutting torches slice molten circles through the outer bulkhead, sparks raining everywhere.  
+Through the openings — red visors and Syndicate armor.
 Round 1: Three Syndicate raiders breach.
 
-Int Check - DC12
-Success "These werent random raiders. They have deck schematics."
-Eidun flinches as she hears the torches, trying to rapidly adjust course on the console.
-"No... no it wasn't supposed to be like this..."
-If confronted:
-"Keep your focus on getting to the engine!"
+3 Syndicate Raiders breach.
+
+Int Check (DC 12):
+- Success: “These aren’t random raiders. They’ve got our deck schematics.”
+
+Eidunn flinches at the torches.
+> “No... no, it wasn’t supposed to be like this...”  
+> If confronted:  
+> “Focus on Engineering! Don’t let them reach the Anchor!”
 
 ## Round 2
-Two Saboteurs propel through the breach on open thrusters, carrying demolition packs, aimed straight for Engineering.
+Two saboteurs launch in through the breach, thrusters blazing, demolition packs on their backs — headed straight for Engineering.
 
-Sten: "I can vent the atmos and space them, but I need a manual override."
-Dex or Int DC 13:
-Success: One Saboteur gets vented
-Failure: The failure nearly takes a crewmate instead. Con DC 12 or take 1d6 cold damage.
+Sten’s voice:
+> “I can vent the compartment and space them, but I’ll need a manual override!”
 
-Gudrick shouts:
-"How the HELL are they cutting through this fast?"
-Eidunn isn't responding.
-Her eyes focused on the reactor readings.
+Dex or Int (DC 13):
+- Success: One saboteur gets vented into space.
+- Failure: The blowback nearly takes a crewmate instead. Con (DC 12) or take 1d6 cold damage.
+
+Gudrick snarls over the chaos:
+
+> “How the hell are they cutting through this fast!?”  
+> Eidunn says nothing — her eyes fixed on the reactor’s readouts.
 ## Round 3
-The final raider: A Breacher with reinforced shields and rifle, bursting right infront of the reactor. Tossing something metallic infront of it.
+A single heavy raider bursts through the far bulkhead, shield raised and rifle in hand.  
+He tosses something metallic toward the reactor.
 
-Investigation DC 12
-Success: It's an EMP, they're trying to shut down the engines to make us easy pickings.
+Investigation (DC 12):
+- Success: “EMP charge — they’re trying to fry the engines!”
+- Failure: You only hear the rising hum before detonation.
 
-Sten: "Don't let him touch the generators! The device could sever my connection to help."
+Sten’s voice fractures:
+> “Don’t let him near the generators! If the field collapses, I’ll lose control!”  
+> Then quieter:  
+> “Someone... is feeding them coordinates. Internal codes. I can see... everything. And someone’s lying.”
 
-The ship shakes violently.
-"Someones... feeding them coordinates... internal codes..."
-"I can see... everything. And someones lying."
-
-The comms go quiet except a low gentle breathing.
+The comms go dead except for faint breathing
 
 ## Round 4
-Gudrick shouts out: "Full power to the rear thrusters! We shake them off!"
+Gudrick yells:
+> “Full power to the rear thrusters! Shake them off!”
 
-The ship lurches and gravity momentarily turns off.
-Dex DC 12 or fall prone
-Up to two raiders slam into the rear hatch, the doors venting them momentarily.
+The ship lurches — gravity flickers off.  
+Dex (DC 12) or fall prone.  
+Two raiders are thrown back into the aft hatch, vented into the void.
 
-Emergency Override Int DC 14
-Triggering manual vent of the room to blow remaining syndicate into space.
+Engineering Override – Int (DC 14):  
+Manual vent of the breach — blowing the remaining boarders out of the ship.
 
-Sten: "Hull breach sealed. Hostiles purged"
+Sten:
+> “Hull breach sealed. Hostiles purged.”
 
 ## Round 5
-Sparks ripple from the engine. The whole ship screaming in agony.
-Gudrick "Get that thing off the-"
+Sparks ripple across the floor. The ship screams in metallic agony.  
+Gudrick starts to shout —
+> “Get that thing off the—”
 
-Everything lights in a billiant shade of blue, then it all goes dark.
-The Rebirth lurches sideways. The engines sputtering once more before dying completely.
+Then the world flashes _blue-white._  
+Everything goes silent.
 
-Eidunn: "No... no no no, not like this - "
+The _Rebirth_ lurches sideways — engines dead, thrusters cold.  
+Eidunn grips the console, whispering:
+> “No... not like this...”
 
-Out the front of the window is Barrier Gate, the ship flying towards it still at full momentum from evasive maneuvers.
+Through the viewport, Barrier Gate fills the horizon — closer every second.
 
-Each player may make ONE roll
-Int - 14 - Restore partial Auxilary power (Lessen crash impact)
-Dex -13 - Adjust trajectory (reduce damage by redirecting location)
-Str - 12 - Manually seal doors to prevent decompression
-Wis - 11 - Stabilize wounded crew before crash
-Cha - 13 - Rally panicking crew to brace (+1 to one future roll)
+Crash Avoidance (One Roll Each)
+
+|Check|Effect|
+|---|---|
+|**INT 14**|Restore partial auxiliary power (lessen impact)|
+|**DEX 13**|Adjust trajectory (reduce crash damage)|
+|**STR 12**|Manually seal doors (prevent decompression)|
+|**WIS 11**|Stabilize wounded crewmates before crash|
+|**CHA 13**|Rally panicked crew (+1 to one ally’s roll)|
 
 # Failure Combat
 ## Boarding
-The engines crawl through the void at half power.
-The Anchor chamber is cold and silent. Blackened glass, melted conduits, and scorch marks on the floor.
+The Rebirth drifts at half power.  
+The Anchor Chamber is blackened — melted glass, scorched conduits, a burnt handprint fused to the deck.
 
-Eidunn won't leave the console.
-Every time she passes, her reddened eyes are fixed on the floor.
-If asked: "He... didn't connect... something must have gotten loose"
+Eidunn won’t leave the console.  
+Every time she passes the chamber, her eyes fix on the scorch marks.
+> “He... didn’t connect. Something must’ve come loose...”
 
-Gudric insists:
-"CentComm wants Barrier Gate's comms restored. The company wont wait for a simple funeral."
+Gudrick refuses to slow down:
+> “CentComm wants Barrier Gate’s comms restored. The Company won’t wait for a funeral.”
 
-But the ship isn't quiet. There's scratching in the ducts. Whispering voices over comms. A strange smell of Rot in the air.
+But the ship isn’t quiet.  
+Scratching in the ducts. Static whispering over comms.  
+And that smell — rot and ozone.
 
-Eidunn can be heard crying out suddenly:
-"No... no no no we purged that filth! I made sure!"
+Suddenly, Eidunn screams.
+> “No... no no, we purged that filth! I made sure!”
 
-On the screen to her console is a body bag in medbay shifting, almost violently.
-The plastic tearing open with a snap as the corpse inside sits upright.
-Its veins are pulsing with a blue powerful light jagged across it.
-Its body convulses, spine cracking backwards as it lets out a sound mixed between a scream and a static burst.
-The lights begin to flicker.
+Her console displays Medbay. A body bag jerks violently, the plastic tearing.  
+The corpse inside sits upright — veins glowing jagged blue, voice splitting into a garbled radio shriek.
+
+The lights flicker out.
 
 ## Combat Begins
 Objective:
-Defend the Command Console and Reactor rooms for four rounds while the ship pushes towards Barrier Gate.
+Defend the Command Console and Reactor rooms for five rounds while the ship pushes towards Barrier Gate.
 ## Round 1
-Three infected crew stagger to their feet. Their eyes glowing faintly blue.
-They move unnaturally.
-Their mouths are open, sounds like mimicked radio comms play through them.
-The Anchor core pulses each time they move
+Three infected crew stagger upright, glowing blue veins pulsing under their skin.  
+When they move, their mouths emit broken comms chatter.
 
-Perception DC 13:
-They seem to be attracted to power relays rather than crew.
+Perception (DC 13):  
+They aren’t hunting people, they’re drawn to power relays.
 
 ## Round 2
-The vents in the floor burst open, releasing clouds of metallic dust.
- Two malformed shapes crawl from the corridors.
-	 On death they burst into a dust, all within 5 ft make a Con save DC 12 or lose 1d4 HP and get disadvantage on next attack.
+Floor vents explode open, metallic dust flooding the room.  
+Two malformed shapes crawl out, chittering.  
+On death, they burst into a corrosive mist.
+
+Con (DC 12):  
+Fail: take 1d4 HP loss and disadvantage on next attack.
 
 
 ## Round 3
-The lights in the room shift.
-Every console seems to reboot.
-The sterile monotone voice over the intercomm speaks.
-"Project Rebirth continuing. Subject Material: Accepted."
+The ship’s lights shift blue. Consoles reboot.  
+A calm, sterile voice echoes:
+> “Project Rebirth continuing. Subject material... accepted.”
 
-A wave of light pulses from the engine room.
-The doors slam shut, then there is the sounds of clawwing as they are pried back open with massive hulking hands.
+A shockwave rolls through the hull.  
+The Engineering doors slam shut — then buckle open as a hulking hybrid of metal and flesh claws its way free.
 
-A beast of horror made from flesh and metal rips its way out.
-Wis save DC 13
-On Failure: The voice of Sten whispers into your head pleading.
-"I... I didn't mean to..."
+Wis (DC 13):  
+Fail: Hear Sten’s voice in your head whisper —
+> “I... didn’t mean to...”
 
 ## Round 4
-Gudrick shouts out: "Full power to the rear thrusters! We shake them off!"
+Gudrick screams:
+> “Full power to the rear thrusters! Shake them loose!”
 
-The ship lurches and gravity momentarily turns off.
-Dex DC 12 or fall prone
-Up to two enemies slam into the rear hatch, the doors venting them momentarily.
+The ship lurches violently.  
+Dex (DC 12) or fall prone.  
+Two abominations are vented into space, shrieking.
 
-Emergency Override Int DC 14
-Triggering manual vent of the room to blow remaining abominations into space.
+Int (DC 14):  
+Manual override vents remaining horrors into the void.
+
+## Round 5
+The _Rebirth_ lurches sideways — engines dead, thrusters cold.  
+Eidunn grips the console, whispering:
+> “No... not like this...”
+
+Through the viewport, Barrier Gate fills the horizon — closer every second.
+
+Crash Avoidance (One Roll Each)
+
+|Check|Effect|
+|---|---|
+|**INT 14**|Restore partial auxiliary power (lessen impact)|
+|**DEX 13**|Adjust trajectory (reduce crash damage)|
+|**STR 12**|Manually seal doors (prevent decompression)|
+|**WIS 11**|Stabilize wounded crewmates before crash|
+|**CHA 13**|Rally panicked crew (+1 to one ally’s roll)|
+
 
 
 # The Crash
-A moment before impact, the intercoms crackle to life
+The intercom crackles to life — calm, serene:
+> “I see the lights... we’re finally here.”
 
-The voice over the intercom calm and serene:
-"I see the lights, we're finally here"
+Metal screams.  
+Viewports implode.  
+The Rebirth slams into Barrier Gate with thunderous force.
 
-Metal screams. Viewports implode.
-The ship crashes into Barrier gate with a sound like thunder in the vacuum of space.
+When the echoes fade, only a strobe light remains —  
+flashing across twisted corridors and half-dead consoles.
 
-When the noises finally calm down, only a strobe light remains.
-Outside is the ruins of Barrier Gate.
+Gudrick’s voice:
+> “Everyone! Sound off! Eidunn!?”
 
-Gudrick "Everyone! Sound off! Eidunn?"
-
-She doenst answer. She's struggling to stand, looking at the cracked glass console of the command console cracked and blinking like a dying floodlight.
-
+She doesn’t answer.  
+She’s kneeling by the cracked glass of the Command Console, its blue glow flickering like a dying floodlight.
