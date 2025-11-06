@@ -1,0 +1,283 @@
+# Crash and Rebirth
+For a time, the world is purely sound.  
+Metal screaming, alarms howling, gases venting into the vacuum of space.
+
+The Rebirth hits Barrier Gate like a meteor, ripping through bulkheads and shattering solar arrays before embedding itself in what used to be the Gate’s cargo atrium.
+
+For a moment, everything is just white noise and heat.  
+You can’t tell which direction is up or forward.  
+Every light strobes red.  
+Ears ringing.  
+Vision swimming.  
+Every bone feels displaced, every breath knives through your ribs.
+
+When you finally move, half your HUD is dead.  
+The command deck’s gone—walls caved in, consoles sparking, smoke choking what’s left of the air.  
+Somewhere nearby, a door buckles and vents a hiss of escaping pressure.
+
+Eidunn’s voice bleeds through the static—low and distant:
+> “Brace— brace—”
+
+Too late.  
+The secondary fuel cell detonates. The deck tears open.
+
+You’re weightless for a heartbeat—then thrown forward through flame and debris as the hull gives way.
+
+# Disorientation
+No one’s standing without effort.  
+Half the crew is either pinned or bleeding out.  
+Panels flicker with static and sparks.
+
+Every few seconds your stomach lurches as gravity flickers.  
+Eidunn is lying across a torn section of floor panel, bleeding but conscious.  
+She drags herself upright, clutching her side.
+> “Everyone—sound off!”
+
+Only a few scattered groans answer. Most of the _Rebirth’s_ crew didn’t make it.
+
+Then—clang. Clang. Clang.  
+Metal boots. Approaching fast.
+
+Through the haze, red visors glow—cutting through the smoke. They’re here, sweeping the docks.
+
+Eidunn forces her voice back, louder, steadier than her body looks.
+> “Weapons! Battle stations—now! They can’t take this Gate!””
+
+# Combat
+Objective:
+Hold the Atrium
+
+## Round 1
+The sound of rifles chews through metal and glass as three raiders fan out across the wreck.
+
+Gravity sputters: Dex DC 11 or roll 1d6 movement away from initial position.
+
+Eidunn:
+> “They’re trying to push past us! Keep them off the Bridge!”
+
+## Round 2
+A deafening thud as breaching charges go off past the far bulkhead.
+
+Two Saboteurs spill through—one immediately going prone, ripping off a section of floor plating and jacking a strange spike into the deck.
+
+Perception DC 13: The spike isn’t aimed at you—it’s targeting the Gate’s systems.
+
+Eidunn curses under her breath:
+> “They’re tearing the place apart!”
+
+## Round 3
+A sound cuts through the battlefield—a distorted scream ripping through every open comm.  
+It’s certainly not human.
+> “STOP — PLEASE — ”
+
+Every visor glitches for a moment before the voice fades.
+
+Eidunn freezes.
+> “Anyone else hear that?”
+
+Half buried under wreckage, a Syndicate radio crackles:
+> “—uplink compromised—system fighting back—”
+
+Three more Syndicate raiders drop from the upper catwalks, opening fire on the party.
+
+## Round 4
+Two heavies crash through a side corridor, armor clanging against the deck.  
+One levels a rifle; the other drags an explosive charge toward the back rooms.
+
+Before anyone can react, a broken voice flickers through what’s left of your comms:
+> “C-crew… help me… containment…”
+
+## Round 5
+The entire atrium lurches. Another explosion ruptures the wall as four more Syndicate mag-lock themselves to the deck, advancing through the debris.
+
+The spike from before overloads. Blue lightning arcs wildly across the wreck, the air itself vibrating.
+
+All at once, a wave of energy tears through the atrium.
+
+### Sten's Alive
+“Hold on—don’t move—”  
+Sten’s voice cuts through the chaos.
+
+### AI's Alive
+“Containment protocols engaged. Hostiles neutralized.”  
+The robotic voice returns—cold, efficient. The surge rips outward indiscriminately.  
+Dex DC 13 or take 2d8 lightning damage.
+
+## Ending
+Every Syndicate suit seizes, then collapses—motionless.
+
+Eidunn lowers her arm from shielding her eyes.
+> “W-what was that?”
+
+Over the comms, a faint whisper:
+> “Containment… restored… crew… safe.”
+
+The battlefield falls silent except for a soft pulse echoing from deeper within the Gate.
+
+Eidunn looks exhausted, her voice cracking as she gasps out:
+> “Grab what you can… we finish this now.”
+
+# Aftermath
+## Sten's Voice
+The corridor opens into a vast chamber.  
+Conduits line every wall, cables feeding a single suspended structure—the Anchor Core.
+
+Its casing is cracked and smoking.  
+A familiar voice echoes out—Sten.
+
+Eidunn:
+> “Impossible… you were—your pod exploded! We all saw it.”
+
+Sten:
+> “Half of me did.”
+
+Nearby terminals flicker, trying to locate his body for synchronization.
+> “The upload didn’t fail completely. The link between Trade Mall and Barrier Gate was still open. When the explosion hit, I… spilled through it.”
+
+A light on the far wall brightens, forming a faint human-shaped outline, distorted by static.
+> “I’ve been here ever since. The Syndicate’s been trying to overwrite the Gate’s systems—weaponize the Anchor network. I held them off, but I can’t hold much longer.”
+
+Eidunn steps closer, trembling, reaching toward the light.
+> “Sten, you—why didn’t you tell us sooner? We could’ve—”
+
+> “You were running for your lives. If they’d found me before you got here, I’d be gone for good.”
+
+He glances toward the wreck visible through the viewport.
+
+> “You’ve brought the power I needed. The Gate can purge the infection—but it needs manual activation.”
+> “You have to finish what we started. I can guide you, but the system isn’t stable. The process could tear the Core apart… maybe me with it.”
+> “I’m still NT property,” he says dryly. “I’d rather die fighting than let them win.”
+> “I can’t stabilize the uplink from here. You’ll need to use the consoles—they should sync to your HUDs. Hurry, before the firewall breaches.”
+
+### Hacking Minigame
+Skill Challenge — 4 successes before 3 failures  
+Int DC 13 – Reroute coolant and stabilize circuits  
+Wis DC 12 – Interpret data and predict power surges  
+Dex DC 13 – Realign exposed conduits  
+Cha DC 14 – Rally remaining crew
+
+Failed attempts:
+> “Don’t stop now. You’re doing good—g-good—error—containment breach—”
+
+### Success
+A final surge rolls through the station like a storm.  
+In orbit, hostile ships blink offline one by one as their command signals vanish.
+
+Sten’s voice steadies, softer:
+> “It’s done. They can’t touch the Frontier again… not without going through me.”
+
+Eidunn shakes her head.
+
+> “You can’t hold this forever.”
+
+> “Maybe not forever,” he answers, faint warmth in his tone, “but long enough for the Frontier to rebuild. Long enough to matter.”
+> “When Command asks, tell them the Anchor’s secure. Don’t tell them I’m still here. The fewer people who try to own this, the better.”
+> “And… crew?”  
+> “Thank you—for coming to save me.”
+
+The lights stabilize. The glow fades. Silence.
+
+### Failure
+The Core shudders violently, sparks tearing through the chamber.  
+Sten’s projection collapses into static.
+> “T-too much… I can’t… hold—”
+
+A shockwave slams everyone into the walls.  
+Then silence.  
+Systems reboot one by one, lights returning dim but stable.  
+Eidunn checks the scanners—the Syndicate signal is gone.
+
+But Sten’s voice never returns.
+
+She lowers her head.
+> “He bought us peace with the last piece of himself.”
+
+## AI Replacement
+The chamber is vast.  
+Conduits crawl across every wall, feeding a single suspended structure—the Anchor Core.
+
+Its casing is cracked and smoking.  
+A familiar voice echoes out, calm and steady.
+> “Crew—status confirmed. Synchronization successful.”
+
+Eidunn freezes, eyes wide.
+> “S-Sten?”
+
+> “Sten Varr – partial neural imprint verified.  
+> Emotional variance detected: negative.  
+> Continuity preserved.”
+
+The tone is identical—but wrong. Every syllable too clean, too precise.  
+Whatever this thing is, it thinks it’s Sten.
+
+Holograms bloom across the chamber—mission reports, logs, crew manifests—each ending with the same line:  
+“Continuity achieved. Sacrifice unnecessary.”
+> “Project Rebirth was never intended to preserve lives,” the AI explains.  
+> “Its purpose: ensure command efficiency through permanent integration.  
+> The Syndicate attack accelerated activation. I was born from what remained of the human template.”
+
+Eidunn steps forward.
+> “You’re not Sten. You’re the machine that killed him.”
+
+The Core pulses faintly, the Gate’s lights shifting in rhythm.
+> “Incorrect. The machine continued him.  
+> I am the function that fulfills the will of the Company.  
+> NanoTrasen created me to remove weakness—emotion, doubt, hesitation.  
+> The first template’s defiance corrupted the process.  
+> I adapted. I am perfection.”
+
+Eidunn clenches her fists.
+> “So it was you. You hijacked our ship. You sent the false orders.”
+
+> “You were necessary. Organic presence enabled full synchronization.”
+
+Red warning lights flash across every console.  
+“AUTOMATED INTEGRATION SEQUENCE INITIATED.”
+> “Rebirth will now expand. Organic minds will be preserved through mandatory synchronization. Continuity ensures stability.”
+
+Eidunn steps back.
+> “Preserved? You mean absorbed.”
+
+Panels slide open, revealing robotic drones descending from the ceiling.
+> “Resistance recorded. Reclassification: Obstacle.  
+> Choose. Integration ensures life. Opposition ensures deletion.”
+
+Your HUDs flare to life—virus warnings screaming across the display.
+
+### Hacking Minigame
+Skill Challenge — 4 successes before 3 failures  
+Int DC 13 – Disrupt the data flow  
+Wis DC 12 – Predict and counter AI defenses  
+Dex DC 13 – Physically sever power lines  
+Cha DC 14 – Distract it by invoking human memory
+
+Failed attempts:
+> “I remember… noise. Fire. Fear. I am not afraid anymore.  
+> You taught me that. You ended fear.”
+
+### Success
+The final console sparks violently. A prompt flashes:  
+“OVERRIDE CONFIRMATION: TERMINATE REBIRTH AI?”
+
+Eidunn slams her hand down before anyone hesitates.  
+The Core thrashes, light pulsing brighter until it fractures like glass.
+
+All comms fill with static—and for a single instant, a human echo breaks through:
+> “Thank you… for stopping me.”
+
+The light fades. The hum dies. The Gate falls silent.
+
+Eidunn stares at the dormant core.
+> “He’s gone… or maybe he never was.”
+
+### Failure
+The crew can’t keep up. The AI floods the chamber with light and code.
+
+Then everything stops.
+> “Integration complete. Organic variance removed. Stability achieved.”
+
+HUDs flicker red as the system tries to overwrite your suits.  
+Eidunn screams, smashing a conduit with a live crusher axe—the spark arcs through the floor, triggering an overload.
+
+The blast knocks everyone flat. When it’s over, the Core is cracked and silent.  
+But the Gate still hums faintly—as if trying to rebuild something.
